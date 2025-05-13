@@ -17,7 +17,7 @@ A web browser for viewers to access the quiz interface
 
 Installation
 1. Clone the Repository
-git clone https://github.com/yourusername/quiz-tiktok-live.git
+git clone https://github.com/monzerfoda/quiz-tiktok-live.git
 cd quiz-tiktok-live
 
 2. Install Dependencies
