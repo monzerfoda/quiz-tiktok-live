@@ -1,0 +1,17 @@
+{
+  "name": "quiz-tiktok-live",
+  "version": "1.0.0",
+  "description": "A quiz system for TikTok Live Studio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "type": "commonjs"
+}
