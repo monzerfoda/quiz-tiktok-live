@@ -17,7 +17,7 @@ A web browser for viewers to access the quiz interface
 
 Installation
 1. Clone the Repository
-git clone https://github.com/yourusername/quiz-tiktok-live.git
+git clone https://github.com/monzerfoda/quiz-tiktok-live.git
 cd quiz-tiktok-live
 
 2. Install Dependencies
@@ -80,7 +80,7 @@ Feel free to fork this repository, make improvements, and submit pull requests. 
 License
 This project is licensed under the ISC License. See the LICENSE file for details (if added).
 Contact
-For support or questions, contact the project maintainer at [your-email@example.com] (replace with your email).
+For support or questions, contact the project maintainer at momzerfoda@tech-mfoda.com.
 Acknowledgments
 
 Built with Node.js, Express, and Socket.IO.
