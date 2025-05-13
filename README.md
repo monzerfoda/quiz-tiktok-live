@@ -80,7 +80,7 @@ Feel free to fork this repository, make improvements, and submit pull requests. 
 License
 This project is licensed under the ISC License. See the LICENSE file for details (if added).
 Contact
-For support or questions, contact the project maintainer at [your-email@example.com] (replace with your email).
+For support or questions, contact the project maintainer at momzerfoda@tech-mfoda.com.
 Acknowledgments
 
 Built with Node.js, Express, and Socket.IO.
